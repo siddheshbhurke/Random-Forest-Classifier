@@ -57,7 +57,9 @@ numpy
 joblib
 ```
 ### Install via : 
-```pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
 ---
 ## 🧰 Key Features
 - 📁 Load and process dataset
@@ -86,6 +88,6 @@ The app is live and accessible via Streamlit Cloud:
 - Authentication for restricted access
 --- 
 ## Author Details 
-** Siddhesh – Artificial Intelligence & Data Science Engineering Student **
+**Siddhesh – Artificial Intelligence & Data Science Engineering Student**
 - LinkedIn : [siddheshbhurke]("https://www.linkedin.com/in/siddheshbhurke/")
 - Github : [siddheshbhurke]("https://www.github.com/siddheshbhurke/")
