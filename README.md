@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ---
 ## 🌐 Live Deployment
 The app is live and accessible via Streamlit Cloud:
-[Click Here for Live Project]("https://random-forest-classifier-iris.streamlit.app/")
+[Click Here for Live Project](https://random-forest-classifier-iris.streamlit.app/)
 ---
 
 ## ✅ Future Enhancements
@@ -89,5 +89,5 @@ The app is live and accessible via Streamlit Cloud:
 --- 
 ## Author Details 
 **Siddhesh – Artificial Intelligence & Data Science Engineering Student**
-- LinkedIn : [siddheshbhurke]("https://www.linkedin.com/in/siddheshbhurke/")
-- Github : [siddheshbhurke]("https://www.github.com/siddheshbhurke/")
+- LinkedIn : [siddheshbhurke](https://www.linkedin.com/in/siddheshbhurke/)
+- Github : [siddheshbhurke](https://www.github.com/siddheshbhurke/)
